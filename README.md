@@ -1,4 +1,4 @@
-# spin_err
+# spin lock error checking
 experiment that tests if tiny error exits while using theoretical spin lock as peterson.
 
 ## result
