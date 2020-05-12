@@ -1,7 +1,7 @@
 # spin lock error checking
 experiment that tests if tiny error exits while using theoretical spin lock as peterson.
 
-## result
+## results
 when running the experiment 1000 times we got a counter value of 199998437 instead of 200000000.
 
 ## foof for thought
