@@ -8,3 +8,6 @@ when running the experiment 1000 times we got a counter value of 199998437 inste
 check the python implementation at https://github.com/DebuggerOR/spin_err_python.
 do you think there will be error there too?
 ans - as long as there is no compilation, no problems are expected.
+
+## see also
+our slides about spin lock & contention and course material are at https://github.com/DebuggerOR/multicore_seminar.
